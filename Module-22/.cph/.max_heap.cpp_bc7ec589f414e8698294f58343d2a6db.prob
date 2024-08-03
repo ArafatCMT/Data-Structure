@@ -1,0 +1,1 @@
+{"name":"Local: max_heap","url":"g:\\Basic Data Structures\\Module-22\\max_heap.cpp","tests":[{"id":1704788121906,"input":"7\n60 70 80 50 85 20 75","output":""},{"id":1704788866429,"input":"7\n90 85 75 50 80 20 70","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Basic Data Structures\\Module-22\\max_heap.cpp","group":"local","local":true}

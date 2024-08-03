@@ -1,0 +1,1 @@
+{"name":"Local: new_array","url":"g:\\Basic Data Structures\\Module-2.5\\new_array.cpp","tests":[{"id":1701269977238,"input":"2\n1 2\n3 4","output":"3 4 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Basic Data Structures\\Module-2.5\\new_array.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: convert_array_to_bst","url":"g:\\Basic Data Structures\\Module-21\\convert_array_to_bst.cpp","tests":[{"id":1704687399395,"input":"6\n2 5 8 9 12 14","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Basic Data Structures\\Module-21\\convert_array_to_bst.cpp","group":"local","local":true}

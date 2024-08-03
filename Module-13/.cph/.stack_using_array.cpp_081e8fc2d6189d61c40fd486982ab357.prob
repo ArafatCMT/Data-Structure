@@ -1,0 +1,1 @@
+{"name":"Local: stack_using_array","url":"g:\\Basic Data Structures\\Module-13\\stack_using_array.cpp","tests":[{"id":1702743422931,"input":"5\n10 20 30 40 50","output":"50 \n40 \n30\n20\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Basic Data Structures\\Module-13\\stack_using_array.cpp","group":"local","local":true}
